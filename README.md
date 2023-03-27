@@ -22,7 +22,7 @@ Maven 3+
 To build and run the project, follow these steps:
 
 Clone the repository: git clone https://github.com/tinashediego/musala-java-test.git
-Navigate to the project directory: cd musala-java-test
+Navigate to the project directory: cd java-test
 Build the project: mvn clean install
 Run the project: mvn spring-boot:run
 -> The application will be available at http://localhost:8080.
